@@ -1,5 +1,7 @@
+
+
 import React from 'react';
-import {HashRouter as Router,Switch, Route, Link} from 'react-router-dom'
+import {HashRouter as Router, Switch, Route, Link} from 'react-router-dom';//כדי להעלות לגיטהב זה מה שרושמים
 import './App.css';
 
 function App() {
@@ -7,12 +9,13 @@ function App() {
     <div className="App">
       <Router>
         <Link to='/'>HomePage</Link>
-        <Link to='/page2'>2</Link>
+        <Link to='/page2'>Page2</Link>
         <Switch>
-          <Route exact path='/' components={()=>{return<h1>HomePage</h1>}}/>
-          <Route exact path='/page2' components={()=>{return<h1>HomePage</h1>}}/>
+          <Route exact path='/' component={()=>{return <h1>HomePage</h1>}} />
+          <Route exact path='/page2' component={()=>{return <h1>Page2</h1>}} />
         </Switch>
       </Router>
+
       
     </div>
   );
