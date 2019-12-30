@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c5773f43a0e968405e4750c774945c4b",
+    "revision": "6d990067fa2009019f20b6ac2df31001",
     "url": "/kiko/index.html"
   },
   {
-    "revision": "ae8813e7ab88fdda10b8",
+    "revision": "8af0228101ac0ad4179d",
     "url": "/kiko/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kiko/static/js/2.36e22ed8.chunk.js.LICENSE"
   },
   {
-    "revision": "ae8813e7ab88fdda10b8",
-    "url": "/kiko/static/js/main.baf60b06.chunk.js"
+    "revision": "8af0228101ac0ad4179d",
+    "url": "/kiko/static/js/main.6e47e9bc.chunk.js"
   },
   {
     "revision": "4fb123d9587c670ec713",

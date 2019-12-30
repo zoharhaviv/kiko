@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kiko/static/css/main.d1b05096.chunk.css",
-    "main.js": "/kiko/static/js/main.baf60b06.chunk.js",
-    "main.js.map": "/kiko/static/js/main.baf60b06.chunk.js.map",
+    "main.js": "/kiko/static/js/main.6e47e9bc.chunk.js",
+    "main.js.map": "/kiko/static/js/main.6e47e9bc.chunk.js.map",
     "runtime-main.js": "/kiko/static/js/runtime-main.bfeca0b3.js",
     "runtime-main.js.map": "/kiko/static/js/runtime-main.bfeca0b3.js.map",
     "static/js/2.36e22ed8.chunk.js": "/kiko/static/js/2.36e22ed8.chunk.js",
     "static/js/2.36e22ed8.chunk.js.map": "/kiko/static/js/2.36e22ed8.chunk.js.map",
     "index.html": "/kiko/index.html",
-    "precache-manifest.d4de0f66e0cc95875c7f3a7f401d5f8a.js": "/kiko/precache-manifest.d4de0f66e0cc95875c7f3a7f401d5f8a.js",
+    "precache-manifest.4c0717f29f361f951396fcd9863486bc.js": "/kiko/precache-manifest.4c0717f29f361f951396fcd9863486bc.js",
     "service-worker.js": "/kiko/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/kiko/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.36e22ed8.chunk.js.LICENSE": "/kiko/static/js/2.36e22ed8.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.bfeca0b3.js",
     "static/js/2.36e22ed8.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.baf60b06.chunk.js"
+    "static/js/main.6e47e9bc.chunk.js"
   ]
 }
